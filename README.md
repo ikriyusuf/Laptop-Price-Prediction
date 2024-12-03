@@ -1,5 +1,3 @@
-"# Laptop-Price-Prediction" 
-
 # Veri Temizleme ve Görselleştirme Projesi
 
 Bu proje, çeşitli veri setleri üzerinde veri temizleme, eksik verileri doldurma ve görselleştirme işlemleri yapmayı amaçlamaktadır. Amaç, veriyi analiz etmek ve görselleştirmek için önceden yapılan temizlik ve dönüşüm işlemlerini içerir.
