@@ -36,5 +36,3 @@ Bu proje, çeşitli veri setleri üzerinde veri temizleme, eksik verileri doldur
 1. Projeyi bilgisayarınıza indirin.
 2. Veri dosyasını projeye dahil edin.
 3. Projeyi çalıştırarak analize başlayın.
-   
-
